@@ -1,6 +1,9 @@
 {
     "name": "@knu-k/readme-template-autogen",
-    "version": "0.0.0",
+    "version": "0.0.1",
+    "publishConfig": {
+        "access": "public"
+    },
     "main": "index.js",
     "bin": {
         "readme-template": "./index.js"
