@@ -1,0 +1,28 @@
+{
+    "name": "@knu-k/readme-template-autogen",
+    "version": "0.0.0",
+    "main": "index.js",
+    "bin": {
+        "readme-template": "./index.js"
+    },
+    "scripts": {
+        "start": "node ./index",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/KNU-K/readme-template-autogen.git"
+    },
+    "author": "KNU-K",
+    "license": "MIT",
+    "keywords": [
+        "readme",
+        "auto-generate",
+        "readme-auto-gen"
+    ],
+    "homepage": "https://github.com/KNU-K/readme-template-autogen#readme",
+    "description": "",
+    "dependencies": {
+        "commander": "^12.1.0"
+    }
+}
