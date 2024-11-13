@@ -1,4 +1,4 @@
-# Changelog Autogen 🎉
+# README Template Autogen 🎉
 
 ![npm version](https://img.shields.io/npm/v/@knu-k/readme-template-autogen)
 
